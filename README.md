@@ -1,4 +1,4 @@
-# CF-Project2
+# The Reddit Trade Revisited
 
 
 Backtesting strategy based on technical indicators/ML models and sentiment analysis.
