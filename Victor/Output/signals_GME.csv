@@ -1,4 +1,4 @@
-date_time,Real,Predicted,close,Signal,Entry/Exit,Signal_Strength,Position,Entry/Exit Position,Portfolio Holdings,Portfolio Cash,Portfolio Total,Portfolio Daily Returns,Portfolio Cumulative Returns,Stock Daily Returns,Stock Cumulative Returns,num_date
+date_time,Real,Predicted,close,Signal,Entry/Exit,Signal_Strength,Position,Entry/Exit Position,Portfolio Holdings,Portfolio Cash,Portfolio Total,Portfolio Minute Returns,Portfolio Cumulative Returns,Stock Minute Returns,Stock Cumulative Returns,num_date
 2021-03-12 14:42:00,0.0011131725417439274,0.0005371860607114591,274.89,1.0,2.0,0.0,0.0,0.0,0.0,1000000.0,1000000.0,,,,,737861.6125
 2021-03-12 14:43:00,0.003019665983517319,-0.0058462090623434175,275.196,-1.0,-2.0,-1.0,-1819.0,-1819.0,-500581.52400000003,1500581.524,1000000.0,0.0,0.0,0.0011131725417441451,0.0011131725417441451,737861.6131944444
 2021-03-12 14:44:00,0.0039959858999301275,-0.0066150794753029795,276.027,-1.0,0.0,-1.0,-1819.0,0.0,-502093.11299999995,1500581.524,998488.4110000001,-0.0015115889999999244,-0.0015115889999999244,0.003019665983517106,0.004136199934519302,737861.6138888889
