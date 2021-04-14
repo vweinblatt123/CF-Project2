@@ -1,9 +1,10 @@
 # The Reddit Trade Revisited
 
+*Backtesting a technical, macro, and sentiment based trading strategy on social media stocks*
 
-Backtesting strategy based on technical indicators/ML models and sentiment analysis.
-
-Minute data (1/28 - 3/25); WSB posts; WSB stocks, SPY, BTC, etc.
-
-Sentiment models: Vader, Spacy, RNN LSTM, BERT
+1.    Technical indicators: William’s R%, RSI, on-balance volume, beta, and AR(1)
+2.    Macro indicators: 2s10s yield curve, VIX index, USDJPY    
+3.    Sentiment analysis: NLTK Vader and custom RNN LSTM
+4.    XGBoost regression to forecast next minute returns
+5.    Trade sizing based on historical returns and standard deviation
 
