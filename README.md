@@ -7,4 +7,6 @@
 3.    Sentiment analysis: NLTK Vader and custom RNN LSTM
 4.    GradientBoosting regression to forecast next minute returns
 5.    Trade sizing based on historical returns and standard deviation
+6.	  Risk parity portfolio that weighs our trading strategy across stocks inversely proportional to risk
+
 
